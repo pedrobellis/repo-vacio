@@ -1,5 +1,5 @@
 import { NumericDictionary, StringIterator } from "lodash";
-
+//Bien ahí
 class Producto{
     name:string;
     price:number;
